@@ -17,9 +17,9 @@ INTEGRATION:
 8. Click “Save Changes”
 
 ******************************************************************************
-*                                                                            *
-*    Please see the URL below for all information concerning this module:    *
-*                                                                            *
-*                     https://www.payfast.co.za/shopping-carts/whmcs/        *
-*                                                                            *
+
+    Please see the URL below for all information concerning this module:    
+
+                     https://www.payfast.co.za/shopping-carts/whmcs/
+
 ******************************************************************************
